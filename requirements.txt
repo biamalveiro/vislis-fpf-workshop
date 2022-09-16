@@ -1,0 +1,5 @@
+altair==4.2.0
+feedzai_altair_theme==1.1.1
+numpy==1.23.3
+pandas==1.4.4
+statsbombpy==1.5.0
