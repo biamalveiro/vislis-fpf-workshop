@@ -43,7 +43,7 @@ Queremos que este workshop seja uma experiência positiva para todos independent
 Incentivamos os seguintes comportamentos que contribuem para um ambiente positivo:
 
 - Usar uma linguagem acolhedora e inclusiva
-- Ser respeitoso com os diversos pontos de vista e experiências
+- Respeitar os diversos pontos de vista e experiências
 - Aceitar críticas construtivas com elegância
 - Dar ênfase ao que é melhor para todos no evento
 - Demonstrar empatia para com os outros participantes
