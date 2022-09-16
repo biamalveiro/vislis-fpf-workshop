@@ -4,7 +4,7 @@
 
 16 de Setembro de 2022, Cidade do Futebol.
 
-Por [Data Visualization Lisboa](https://twitter.com/DatavisLisboa), [Salomé Esteves](https://twitter.com/RSalomeEsteves), [Beatriz Malveiro](https://twitter.com/biased_bia) [Sara Mesquita](https://twitter.com/MesquitaSra).
+Por [Data Visualization Lisboa](https://twitter.com/DatavisLisboa), [Salomé Esteves](https://twitter.com/RSalomeEsteves), [Beatriz Malveiro](https://twitter.com/biased_bia), e [Sara Mesquita](https://twitter.com/MesquitaSra).
 
 <img src="https://drive.google.com/uc?id=1xoRrlKGNXAYJ3zYjWOgvon6SmTQmvjo5" alt="data-vis-logo" width="160"/>
 
